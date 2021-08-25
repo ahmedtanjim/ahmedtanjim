@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm Tanjim Ahmed. A Google Developer Expert on Android. An Android Engineer at [CrazyBot Studio](https://crazybotstudio.com). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+I'm Tanjim Ahmed. A Developer Expert on Android. An Android Engineer at [CrazyBot Studio](https://crazybotstudio.com). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
 
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
