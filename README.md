@@ -19,12 +19,12 @@ I ocassionally blog and tweet about android. Also open sourced few android relat
 - Android :robot:
 - Open source :octocat:
 
-## Get in touch :coffee:
+<!-- ## Get in touch :coffee:
 
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/Tanjim__Ahmed).
 - Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@tanjim_ahmed).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/ahmedtanjim)
-- And of course GitHub you're already on (Recursion).
+- And of course GitHub you're already on (Recursion). -->
 
 
 <!--
