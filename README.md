@@ -17,7 +17,7 @@ A passionate Full-Stack Mobile Developer from Sylhet, Bangladesh, with over 5 ye
 - 🔭 I’m currently working on a fintech app using Flutter and Firebase.
 - 🌱 I’m currently learning about advanced state management and native performance optimization.
 - 💬 Ask me about **Flutter, Dart, Swift, Kotlin, and Firebase**.
-- 📫 How to reach me: **[ahmedtanjim.dev@gmail.com](mailto:ahmedtanjim.dev@gmail.com)**
+- 📫 How to reach me: **[ahmedtanjim.dev@gmail.com](mailto:contact@tanjimahmed.com)**
 - ⚡ Fun fact: I believe any complex problem can be solved with a clean UI and efficient code.
 
 ---
